@@ -1,0 +1,2 @@
+# scratchgpt
+ScratchGPT from Scratch

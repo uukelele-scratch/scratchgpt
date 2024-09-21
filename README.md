@@ -1,2 +1,2 @@
-# scratchgpt
-ScratchGPT from Scratch
+# [ScratchGPT](https://scratch.mit.edu/projects/1062443106/)
+
